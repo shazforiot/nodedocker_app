@@ -1,0 +1,17 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "This is a demo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "k",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hjs": "0.0.6",
+    "hogan-middleware": "^0.2.2",
+    "nodemon": "^2.0.3"
+  }
+}
