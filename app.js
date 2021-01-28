@@ -27,7 +27,7 @@ app.use((req,res,next)=>{
 
 
 const port = "8888";
-const host = "192.168.0.101";
+const host = "0.0.0.0";
 app.listen( port,host);
 console.log(`Node Js Server is running on the host: ${host} on the port: ${port}`);
 
